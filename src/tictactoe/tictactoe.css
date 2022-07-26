@@ -1,0 +1,13 @@
+table td {
+    border: 1px solid chocolate;
+    width: 100px;
+    height: 100px;
+}
+.container {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    align-items: center;
+
+}
